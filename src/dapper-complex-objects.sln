@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33513.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dapper-complex-objects", "dapper-complex-objects\dapper-complex-objects.csproj", "{1BF8BA93-27DE-44EA-B9BD-714AB5DB6DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dapper-complex-objects-tests", "dapper-complex-objects-tests\dapper-complex-objects-tests.csproj", "{1E854A7D-ABE5-42A2-AFFA-002D4B20949C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF8BA93-27DE-44EA-B9BD-714AB5DB6DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF8BA93-27DE-44EA-B9BD-714AB5DB6DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF8BA93-27DE-44EA-B9BD-714AB5DB6DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF8BA93-27DE-44EA-B9BD-714AB5DB6DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E854A7D-ABE5-42A2-AFFA-002D4B20949C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E854A7D-ABE5-42A2-AFFA-002D4B20949C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E854A7D-ABE5-42A2-AFFA-002D4B20949C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E854A7D-ABE5-42A2-AFFA-002D4B20949C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73DB88AA-2F89-4A34-B821-B802A8B63D0D}
+	EndGlobalSection
+EndGlobal
